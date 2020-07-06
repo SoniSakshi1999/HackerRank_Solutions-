@@ -1,6 +1,6 @@
 # HackerRank_Solutions-
 It will be updated weekly.
-Press a star if this repository is helpful.
+Press a star if this repository is helpful.It contains the solutions to the following problems in sections mentioned below:
 
 # 1) Python
   # Introduction
