@@ -34,7 +34,6 @@ Press a star if this repository is helpful.
         1 D Arrays in C
         Array Reversal
         Printing Tokens
-        Dynamic Array in C
   # Functions
         Calculate the Nth Term
         Students Marks Sum
