@@ -1,0 +1,21 @@
+
+sum = int(input())
+sum_final = i+sum
+double = float(input())
+double_final = double + d
+st = str(input())
+st_final = s + st 
+print(sum_final)
+print(double_final)
+print(st_final)
+
+# Declare second integer, double, and String variables.
+
+# Read and save an integer, double, and String to your variables.
+
+# Print the sum of both integer variables on a new line.
+
+# Print the sum of the double variables on a new line.
+
+# Concatenate and print the String variables on a new line
+# The 's' variable above should be printed first.

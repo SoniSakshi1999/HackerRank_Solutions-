@@ -1,0 +1,36 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+#
+# Complete the 'gradingStudents' function below.
+#
+# The function is expected to return an INTEGER_ARRAY.
+# The function accepts INTEGER_ARRAY grades as parameter.
+#System.out.println(grade < 38 || grade % 5 < 3 ? grade : grade + (5 - (grade % 5)));
+
+grades_count = int(input().strip())
+
+grades = []
+dif = 0
+c=0
+s=0
+
+for _ in range(grades_count):
+    grades_item = int(input().strip())
+    grades.append(grades_item)
+
+    if (grades_item < 38 or grades_item % 5 <3):
+        print(grades_item)
+    else:
+        final = grades_item + (5-(grades_item % 5))
+        print(final)
+
+            
+    # Write your code here
+
+  
