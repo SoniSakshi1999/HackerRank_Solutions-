@@ -17,6 +17,8 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Finding the percentage 
         Tuples
         Nested Lists
+  # Strings
+        Swap Case
         
  # 2)C
   # Introduction
