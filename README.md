@@ -20,6 +20,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
   # Strings
         Swap Case
         String Split and Join
+        What's Your Name?
         
  # 2)C
   # Introduction
