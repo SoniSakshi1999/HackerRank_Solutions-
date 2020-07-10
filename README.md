@@ -21,6 +21,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Swap Case
         String Split and Join
         What's Your Name?
+        Mutations
         
  # 2)C
   # Introduction
