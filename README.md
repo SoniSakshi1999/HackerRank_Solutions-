@@ -43,6 +43,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
   # Functions
         Calculate the Nth Term
         Students Marks Sum
+        Variadic functions in C
   # Structs and Enums
         Boxes through a tunnel
         Small Triangles,Large Triangles
