@@ -40,6 +40,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         1 D Arrays in C
         Array Reversal
         Printing Tokens
+        Digit Frequency
   # Functions
         Calculate the Nth Term
         Students Marks Sum
