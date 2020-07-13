@@ -48,6 +48,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
   # Structs and Enums
         Boxes through a tunnel
         Small Triangles,Large Triangles
+        Structuring the document
         
  # 3) Problem Solving
   # Warmup
