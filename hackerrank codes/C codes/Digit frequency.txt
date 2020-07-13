@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+    char s;
+    int i;
+    int a[10]={0};
+    while(scanf("%c",&s)==1)
+    /* Taking input character by character scanf returns 1 for every succesful entry */ 
+         if(s>='0' && s<='9')
+             a[s-'0']+=1;
+    for(i=0;i<10;i++)
+        printf("%d\t",a[i]);
+    return 0;
+}
