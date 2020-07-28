@@ -1,0 +1,21 @@
+n = int(input())
+phonebook = {}
+
+
+for i in range(n):
+    line = input()
+    pair = line.split()
+    phonebook[pair[0]] = pair[1]
+#print(phonebook)
+#query = input()
+while(1):
+    try:
+        query = input()
+        #print(query)
+        if query not in phonebook.keys():
+            print(f"Not found")
+        else:
+            print(f"{query}={phonebook[query]}")
+    except:
+        break
+ 
