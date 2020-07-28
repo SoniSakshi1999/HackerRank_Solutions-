@@ -78,6 +78,9 @@ Press a star if this repository is helpful.It contains the solutions to the foll
        Day 5: Loops
        Day 6: Let's Review
        Day 7: Arrays
+       Day 8: Dictionaries and Maps
+       Day 9: Recursion 3
+       Day 10: Binary Numbers
        
  # 5) Java
   # Introduction
