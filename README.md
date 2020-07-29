@@ -45,6 +45,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Calculate the Nth Term
         Students Marks Sum
         Variadic functions in C
+        Sorting Array of Strings
   # Structs and Enums
         Boxes through a tunnel
         Small Triangles,Large Triangles
