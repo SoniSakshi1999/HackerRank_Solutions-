@@ -46,6 +46,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Students Marks Sum
         Variadic functions in C
         Sorting Array of Strings
+        Permutations of strings
   # Structs and Enums
         Boxes through a tunnel
         Small Triangles,Large Triangles
