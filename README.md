@@ -41,6 +41,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Array Reversal
         Printing Tokens
         Digit Frequency
+        Dynamic Array in C
   # Functions
         Calculate the Nth Term
         Students Marks Sum
