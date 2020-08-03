@@ -1,0 +1,14 @@
+if __name__ == '__main__':
+    n = input()
+    l = []
+    for _ in range(n):
+        i = raw_input().split()
+        cmd = i[0]
+        a = i[1:]
+        #print(a)
+        if cmd != 'print':
+            cmd += "(" + ",".join(a) +")"
+            eval("l."+cmd)
+        else:
+            print(l)
+            
