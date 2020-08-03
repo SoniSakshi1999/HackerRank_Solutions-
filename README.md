@@ -17,6 +17,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Finding the percentage 
         Tuples
         Nested Lists
+        Lists
   # Strings
         Swap Case
         String Split and Join
