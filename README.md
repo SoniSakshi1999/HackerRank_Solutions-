@@ -23,6 +23,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         String Split and Join
         What's Your Name?
         Mutations
+        Find a string
         
  # 2)C
   # Introduction
