@@ -24,6 +24,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         What's Your Name?
         Mutations
         Find a string
+        String Validators
         
  # 2)C
   # Introduction
