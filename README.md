@@ -26,6 +26,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Find a string
         String Validators
         Text Alignment
+        Text Wrap
         
  # 2)C
   # Introduction
