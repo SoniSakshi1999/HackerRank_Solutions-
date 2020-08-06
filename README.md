@@ -25,6 +25,7 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Mutations
         Find a string
         String Validators
+        Text Alignment
         
  # 2)C
   # Introduction
