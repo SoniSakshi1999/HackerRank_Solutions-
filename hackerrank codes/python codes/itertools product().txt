@@ -1,0 +1,14 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+from itertools import product
+a1 = input().split()
+b1 = input().split()
+a = map(int,a1)
+b = map(int,b1)
+#print(a)
+#print(b)
+c = list(a)
+d = list(b)
+m = [c,d]
+n = list(product(*m))
+for i in range(len(n)):
+    print(n[i],end=' ')
