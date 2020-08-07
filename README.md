@@ -29,6 +29,9 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Text Wrap
         String Formatting
         Capitalize!
+  
+  # Itertools
+        itertools.product()
         
  # 2)C
   # Introduction
