@@ -31,7 +31,10 @@ Press a star if this repository is helpful.It contains the solutions to the foll
         Capitalize!
   
   # Itertools
-        itertools.product()
+       itertools.product()
+      
+  # Collections
+        collections.Counter()
         
  # 2)C
   # Introduction
